@@ -2,6 +2,7 @@
   "name": "single-page-apps",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://prashant0268.github.io/singlePageApps"
   "dependencies": {
     "@material-ui/core": "^4.8.2",
     "@material-ui/icons": "^4.5.1",
